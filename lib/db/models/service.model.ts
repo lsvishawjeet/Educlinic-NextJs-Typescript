@@ -1,6 +1,4 @@
 "user server"
-
-import exp from "constants";
 import { Schema, model, models } from "mongoose"
 
 
